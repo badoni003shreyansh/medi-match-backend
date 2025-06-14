@@ -11,3 +11,4 @@ chromadb>=0.4.24
 sentence_transformers
 flask-cors
 groq
+gunicorn
